@@ -205,7 +205,9 @@
                                 <rect key="frame" x="15" y="265" width="343" height="165"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemGray4Color"/>
-                                <string key="text">毒物スクラバー洗浄注意</string>
+                                <string key="text">毒物
+スクラバー
+洗浄注意</string>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="46"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -830,7 +832,7 @@
                                 </constraints>
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="gray" title="消耗品ストック">
+                                <buttonConfiguration key="configuration" style="gray" title="物品保管場所">
                                     <fontDescription key="titleFontDescription" type="system" weight="heavy" pointSize="35"/>
                                 </buttonConfiguration>
                                 <connections>
