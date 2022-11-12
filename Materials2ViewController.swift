@@ -3,7 +3,6 @@
 //  Improvement plan dummy
 //
 // 
-//
 
 import UIKit
 
