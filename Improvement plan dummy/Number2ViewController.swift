@@ -10,8 +10,11 @@ import UIKit
 class Number2ViewController: UIViewController {
     @IBOutlet weak var imageview: UIImageView!
     
+    @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        imageView.loadGif(name: "meter")
        
         let sampleImage = UIImage(named:"return1.jpeg")
         imageview.image = sampleImage

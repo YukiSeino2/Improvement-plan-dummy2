@@ -1,0 +1,26 @@
+PODS:
+  - Realm (10.28.5):
+    - Realm/Headers (= 10.28.5)
+  - Realm/Headers (10.28.5)
+  - RealmSwift (10.28.5):
+    - Realm (= 10.28.5)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftGifOrigin
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Realm: eb7f6a7a8395906822e6fab71eb8496d6d52b318
+  RealmSwift: 6b54904d4a236de143f3411a757641fd74e9cb3d
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: d1950ba0827da7f59087b75af3fd195766abd7ca
+
+COCOAPODS: 1.11.3

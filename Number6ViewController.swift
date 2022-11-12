@@ -8,11 +8,13 @@
 import UIKit
 
 class Number6ViewController: UIViewController {
-
+    @IBOutlet weak var imageView: UIImageView!
+    
     @IBOutlet weak var imageview: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        imageView.loadGif(name: "meter")
         let sampleImage = UIImage(named:"return1.jpeg")
         imageview.image = sampleImage
 
