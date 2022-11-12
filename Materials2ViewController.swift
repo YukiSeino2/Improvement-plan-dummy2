@@ -2,7 +2,6 @@
 //  Materials2ViewController.swift
 //  Improvement plan dummy
 //
-// 
 
 import UIKit
 
